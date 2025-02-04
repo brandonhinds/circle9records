@@ -83,7 +83,9 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | 2:14 | B2 |
+| Standard | 1:14 | B2 |
+| Advanced | 1:10 | B2 |
+| Total | 2:14 | B2 |
 
 ## Letter Link
 
