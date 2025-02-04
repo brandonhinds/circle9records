@@ -97,7 +97,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder |
 | ----- | ---- | ------ |
 | Standard | 2:01 | B1 |
-| Advanced | TBC | TBC |
+| Advanced | 2:20 | B1 |
 | Expert | TBC | TBC |
 | Total | TBC | TBC |
 
