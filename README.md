@@ -24,7 +24,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | TBC | TBC |
+| Standard | 1:34 | B2 |
 | Advanced | TBC | TBC |
 | Expert | TBC | TBC |
 | Total | TBC | TBC |
