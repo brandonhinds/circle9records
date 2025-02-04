@@ -96,7 +96,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| S | TBC | TBC |
+| S | 2:01 | B1 |
 | A | TBC | TBC |
 | E | TBC | TBC |
 | Total | TBC | TBC |
