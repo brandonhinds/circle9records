@@ -6,16 +6,16 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | TBC | TBC |
-| Advanced | TBC | TBC |
-| Expert | TBC | TBC |
-| Total | TBC | TBC |
+| Standard | 2:09 | B2 |
+| Advanced | 1:55 | B2 |
+| Expert | 3:13 | B2 |
+| Total | 7:18 | B2 |
 
 ## Jigsaw Circle 9
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | TBC | TBC |
+| Standard | 15:35 | B2 |
 | Advanced | TBC | TBC |
 | Expert | TBC | TBC |
 | Total | TBC | TBC |
@@ -25,9 +25,9 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder |
 | ----- | ---- | ------ |
 | Standard | 1:34 | B2 |
-| Advanced | TBC | TBC |
-| Expert | TBC | TBC |
-| Total | TBC | TBC |
+| Advanced | 4:18 | B2 |
+| Expert | 6:07 | B2 |
+| Total | 11:59 | B2 |
 
 ## Blueberry Trio
 
@@ -66,11 +66,11 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| 9 | TBC | TBC |
-| 16 | TBC | TBC |
+| 9 | 0:23 | B2 |
+| 16 | 0:16 | B2 |
 | 25 | TBC | TBC |
 | 36 | TBC | TBC |
-| 49 | TBC | TBC |
+| 49 | 1:46 | B2 |
 | Total | TBC | TBC |
 
 ## Number Cross
@@ -91,14 +91,14 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| 16 | TBC | TBC |
+| 16 | 2:39 | B2 |
 | 36 | TBC | TBC |
 
 ## Stitchwords
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | 1:54 | B1 |
+| Standard | 1:25 | B2 |
 | Advanced | 2:06 | B1 |
 | Expert | 3:57 | B1 |
 | Total | 7:58 | B1 |
