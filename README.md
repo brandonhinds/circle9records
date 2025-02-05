@@ -33,10 +33,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | TBC | TBC | TBC |
-| Advanced | TBC | TBC | TBC |
-| Expert | TBC | TBC | TBC |
-| Total | TBC | TBC | TBC |
+| Standard | 3:06 | B1 | 2025-02-06 |
+| Advanced | 7:07 | B1 | 2025-02-06 |
+| Expert | 7:12 | B1 | 2025-02-06 |
+| Total | 17:25 | B1 | 2025-02-06 |
 
 ## Windowpane
 
