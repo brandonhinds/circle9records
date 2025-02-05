@@ -15,7 +15,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | 15:35 | B2 |
+| Standard | 1:43 | Tamas |
 | Advanced | TBC | TBC |
 | Expert | TBC | TBC |
 | Total | TBC | TBC |
