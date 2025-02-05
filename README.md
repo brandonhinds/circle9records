@@ -67,9 +67,9 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder |
 | ----- | ---- | ------ |
 | 9 | 0:23 | B2 |
-| 16 | 0:16 | B2 |
-| 25 | TBC | TBC |
-| 36 | TBC | TBC |
+| 16 | 0:16 | B2 & B1 |
+| 25 | 0:35 | B1 |
+| 36 | 1:35 | B1 |
 | 49 | 1:46 | B2 |
 | Total | TBC | TBC |
 
