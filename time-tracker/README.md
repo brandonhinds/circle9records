@@ -41,5 +41,8 @@ You simply have both Circle 9 and our site open, use the extension to move the l
 I believe we need the following:
 
 - A frontend website.
+  - A vertical stack of time input fields so that user can verify/input times for as many puzzles as they want and submit together.
+  - [possibly] allow multiple submits, as long as there are no double-ups on times (i.e. user can't submit different times to the same puzzle in 1 day)
+  - NB: Icons for the puzzles can be retrieved e.g. https://circle9puzzle.com/matchbox/icon.svg?v=201
 - A backend server that can read the site's local storage, get the times, and write to the database.
 - A database to store this data.
