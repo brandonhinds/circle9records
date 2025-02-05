@@ -24,10 +24,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:34 | B2 | 2025-02-05 |
-| Advanced | 4:18 | B2 | 2025-02-05 |
-| Expert | 6:07 | B2 | 2025-02-05 |
-| Total | 11:59 | B2 | 2025-02-05 |
+| Standard | 1:34 | B2 | 2025-02-04 |
+| Advanced | 3:13 | B2 | 2025-02-05 |
+| Expert | 3:25 | B2 | 2025-02-05 |
+| Total | 9:53 | B2 | 2025-02-05 |
 
 ## Blueberry Trio
 
@@ -48,9 +48,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | TBC | TBC | TBC |
-| Advanced | TBC | TBC | TBC |
-| Expert | TBC | TBC | TBC |
+| 3 | 0:12 | B2 | 2025-02-05 |
+| 4 | 0:15 | B2 | 2025-02-05 |
+| 5 | 0:17 | B2 | 2025-02-05 |
+| 6 | 1:46 | B2 | 2025-02-05 |
 | Total | 0:58 | B2 | 2024-12-01 |
 
 ## Pentominoes
@@ -83,7 +84,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:14 | B2 | 2025-02-04 |
+| Standard | 0:59 | B2 | 2025-02-05 |
 | Advanced | 1:10 | B2 | 2025-02-04 |
 | Total | 2:14 | B2 | 2025-02-04 |
 
