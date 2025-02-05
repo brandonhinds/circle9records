@@ -6,8 +6,8 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder |
 | ----- | ---- | ------ |
-| Standard | 1:11 | Tamas |
-| Advanced | 1:55 | B2 |
+| Standard | 0:54 | B2 |
+| Advanced | 1:45 | B2 |
 | Expert | 3:13 | B2 |
 | Total | 7:18 | B2 |
 
