@@ -52,7 +52,7 @@ Play the games for free at https://circle9puzzle.com/
 | 4 | 0:15 | B2 | 2025-02-05 |
 | 5 | 0:17 | B2 | 2025-02-05 |
 | 6 | 1:46 | B2 | 2025-02-05 |
-| Total | 0:58 | B2 | 2024-12-01 |
+| Total | 0:58 | B2 | 2024-12-28 |
 
 ## Pentominoes
 
@@ -60,8 +60,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | TBC | TBC | TBC |
 | Advanced | TBC | TBC | TBC |
-| Expert | TBC | TBC | TBC |
-| Total | 1:29 | B2 | 2024-12-01 |
+| Total | 1:29 | B2 | 2024-12-28 |
 
 ## Matchbox
 
@@ -108,5 +107,5 @@ Play the games for free at https://circle9puzzle.com/
 
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
-| Twins + Pents Total | 3:10 | B2 | 2024-12-01 |
+| Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
 | Everything Total | TBC | TBC | TBC |
