@@ -17,8 +17,8 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 1:43 | Tamas | 2025-02-05 |
 | Advanced | 1:32 | B2 | 2025-02-05 |
-| Expert | TBC | TBC | TBC |
-| Total | TBC | TBC | TBC |
+| Expert | 5:49 | B1 | 2025-02-07 |
+| Total | 17:56 | B1 | 2025-02-07 |
 
 ## Blueberry
 
@@ -51,27 +51,27 @@ Play the games for free at https://circle9puzzle.com/
 | 3 | 0:12 | B2 | 2025-02-05 |
 | 4 | 0:15 | B2 | 2025-02-05 |
 | 5 | 0:17 | B2 | 2025-02-05 |
-| 6 | 1:46 | B2 | 2025-02-05 |
+| 6 | 0:09 | B1 | 2025-02-07 |
 | Total | 0:58 | B2 | 2024-12-28 |
 
 ## Pentominoes
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | TBC | TBC | TBC |
-| Advanced | TBC | TBC | TBC |
+| Standard | 2:29 | B1 | 2025-02-07 |
+| Advanced | 4:32 | B1 | 2025-02-07 |
 | Total | 1:29 | B2 | 2024-12-28 |
 
 ## Matchbox
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| 9 | 0:16 | B1 | 2025-02-06 |
+| 9 | 0:05 | B1 | 2025-02-07 |
 | 16 | 0:16 | B2 & B1 | 2025-02-05 |
 | 25 | 0:35 | B1 | 2025-02-05 |
-| 36 | 1:35 | B1 | 2025-02-05 |
+| 36 | 0:57 | B1 | 2025-02-07 |
 | 49 | 1:46 | B2 | 2025-02-05 |
-| Total | TBC | TBC | TBC |
+| Total | 16:05 | B1 | 2025-02-07 |
 
 ## Number Cross
 
@@ -83,7 +83,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:59 | B2 | 2025-02-05 |
+| Standard | 0:55 | B1 | 2025-02-07 |
 | Advanced | 1:10 | B2 | 2025-02-04 |
 | Total | 2:14 | B2 | 2025-02-04 |
 
@@ -91,8 +91,9 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| 16 | 2:39 | B2 | 2025-02-05 |
-| 36 | TBC | TBC | TBC |
+| 16 | 1:38 | B1 | 2025-02-07 |
+| 36 | 8:29 | B1 | 2025-02-07 |
+| Total | 10:07 | B1 | 2025-02-07 |
 
 ## Stitchwords
 
@@ -108,4 +109,4 @@ Play the games for free at https://circle9puzzle.com/
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
-| Everything Total | TBC | TBC | TBC |
+| Everything Total | B1 | 2:29:58 | 2025-02-05 |
