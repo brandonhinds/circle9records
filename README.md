@@ -109,4 +109,4 @@ Play the games for free at https://circle9puzzle.com/
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
-| Everything Total | B1 | 2:29:58 | 2025-02-05 |
+| Everything Total | 2:29:58 | B1 | 2025-02-05 |
