@@ -42,7 +42,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | TBC | Tamas | TBC |
+| Standard | 5:17 | B1 | 2025-02-07 |
 
 ## Twinominoes
 
