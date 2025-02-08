@@ -91,9 +91,9 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| 16 | 1:38 | B1 | 2025-02-07 |
-| 36 | 8:29 | B1 | 2025-02-07 |
-| Total | 10:07 | B1 | 2025-02-07 |
+| 16 | 1:16 | B1 | 2025-02-09 |
+| 36 | 6:05 | B1 | 2025-02-09 |
+| Total | 7:21 | B1 | 2025-02-09 |
 
 ## Stitchwords
 
