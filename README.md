@@ -7,7 +7,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:54 | B2 | 2025-02-05 |
-| Advanced | 1:45 | B2 | 2025-02-05 |
+| Advanced | 1:45 | B2 & B1 | 2025-02-05 |
 | Expert | 3:13 | B2 | 2025-02-05 |
 | Total | 7:18 | B2 | 2025-02-05 |
 
