@@ -18,7 +18,7 @@ Play the games for free at https://circle9puzzle.com/
 | Standard | 1:43 | Tamas | 2025-02-05 |
 | Advanced | 1:32 | B2 | 2025-02-05 |
 | Expert | 5:49 | B1 | 2025-02-07 |
-| Total | 17:56 | B1 | 2025-02-07 |
+| Total | 16:19 | B1 | 2025-02-09 |
 
 ## Blueberry
 
@@ -48,7 +48,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| 3 | 0:08 | B¹ | 2025-02-09 |
+| 3 | 0:08 | B1 | 2025-02-09 |
 | 4 | 0:04 | B1 | 2025-02-08 |
 | 5 | 0:17 | B2 | 2025-02-05 |
 | 6 | 0:09 | B1 | 2025-02-07 |
@@ -58,7 +58,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:37 | B1 | 2025-02-08 |
+| Standard | 0:29 | B1 | 2025-02-09 |
 | Advanced | 4:32 | B1 | 2025-02-07 |
 | Total | 1:29 | B2 | 2024-12-28 |
 
@@ -109,4 +109,4 @@ Play the games for free at https://circle9puzzle.com/
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
-| Everything Total | 2:29:58 | B1 | 2025-02-05 |
+| Everything Total | 1:43:54 | B1 | 2025-02-09 |
