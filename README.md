@@ -6,7 +6,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:54 | B2 | 2025-02-05 |
+| Standard | 0:52 | B2 | 2025-02-09 |
 | Advanced | 1:45 | B2 & B1 | 2025-02-05 |
 | Expert | 3:13 | B2 | 2025-02-05 |
 | Total | 7:18 | B2 | 2025-02-05 |
@@ -34,7 +34,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 3:06 | B1 | 2025-02-06 |
-| Advanced | 7:07 | B1 | 2025-02-06 |
+| Advanced | 5:11 | B2 | 2025-02-09 |
 | Expert | 7:12 | B1 | 2025-02-06 |
 | Total | 17:25 | B1 | 2025-02-06 |
 
@@ -42,7 +42,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:36 | B1 | 2025-02-09 |
+| Standard | 1:23 | B2 | 2025-02-09 |
 
 ## Twinominoes
 
@@ -59,7 +59,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:29 | B1 | 2025-02-09 |
-| Advanced | 4:32 | B1 | 2025-02-07 |
+| Advanced | 3:55 | B2 | 2025-02-09 |
 | Total | 1:29 | B2 | 2024-12-28 |
 
 ## Matchbox
@@ -68,16 +68,16 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | 9 | 0:03 | B1 | 2025-02-09 |
 | 16 | 0:10 | B1 | 2025-02-08 |
-| 25 | 0:28 | B1 | 2025-02-09 |
-| 36 | 0:45 | B1 | 2025-02-09 |
-| 49 | 1:46 | B2 | 2025-02-05 |
-| Total | 3:15 | B1 | 2025-02-09 |
+| 25 | 0:20 | B2 | 2025-02-09 |
+| 36 | 0:33 | B2 | 2025-02-09 |
+| 49 | 0:41 | B2 | 2025-02-09 |
+| Total | 2:19 | B2 | 2025-02-09 |
 
 ## Number Cross
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 3:35 | B1 | 2025-02-04 |
+| Standard | 2:55 | B2 | 2025-02-09 |
 
 ## Ball Sort
 
@@ -92,14 +92,14 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | 16 | 1:16 | B1 | 2025-02-09 |
-| 36 | 6:05 | B1 | 2025-02-09 |
-| Total | 7:21 | B1 | 2025-02-09 |
+| 36 | 3:29 | B2 | 2025-02-09 |
+| Total | 5:00 | B2 | 2025-02-09 |
 
 ## Stitchwords
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:24 | B2 | 2025-02-05 |
+| Standard | 1:17 | B2 | 2025-02-09 |
 | Advanced | 0:58 | B2 | 2025-02-05 |
 | Expert | 2:12 | B2 | 2025-02-05 |
 | Total | 4:35 | B2 | 2025-02-05 |
@@ -109,4 +109,4 @@ Play the games for free at https://circle9puzzle.com/
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
-| Everything Total | 1:43:54 | B1 | 2025-02-09 |
+| Everything Total | 1:29:56 | B2 | 2025-02-09 |
