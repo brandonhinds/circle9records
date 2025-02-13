@@ -7,18 +7,18 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:52 | B2 | 2025-02-09 |
-| Advanced | 0:32 | B2 & B1 | 2025-02-14 |
+| Advanced | 0:32 | B1 | 2025-02-14 |
 | Expert | 3:13 | B2 | 2025-02-05 |
-| Total | 5:47 | B2 | 2025-02-14 |
+| Total | 5:47 | B1 | 2025-02-14 |
 
 ## Jigsaw Circle 9
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:43 | Tamas | 2025-02-05 |
+| Standard | 0:31 | B1 | 2025-02-14 |
 | Advanced | 1:32 | B2 | 2025-02-05 |
-| Expert | 5:49 | B1 | 2025-02-07 |
-| Total | 16:19 | B1 | 2025-02-09 |
+| Expert | 2:05 | B1 | 2025-02-14 |
+| Total | 4:24 | B1 | 2025-02-14 |
 
 ## Blueberry
 
