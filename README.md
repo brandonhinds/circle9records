@@ -17,7 +17,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:31 | B1 | 2025-02-14 |
 | Advanced | 1:32 | B2 | 2025-02-05 |
-| Expert | 2:05 | B1 | 2025-02-14 |
+| Expert | 1:54 | Adam | 2025-02-18 |
 | Total | 4:24 | B1 | 2025-02-14 |
 
 ## Blueberry
