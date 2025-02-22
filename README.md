@@ -16,8 +16,8 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:31 | B1 | 2025-02-14 |
-| Advanced | 1:06 | B1 | 2025-02-21 |
-| Expert | 0:51 | B1 | 2025-02-22 |
+| Advanced | 0:51 | B1 | 2025-02-22 |
+| Expert | 1:11 | B1 | 2025-02-21 |
 | Total | 3:07 | B1 | 2025-02-21 |
 
 ## Blueberry
