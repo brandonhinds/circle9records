@@ -99,10 +99,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:07 | Adam | 2025-02-18 |
+| Standard | 0:44 |B2 | 2025-02-23 |
 | Advanced | 0:58 | B2 | 2025-02-05 |
 | Expert | 1:36 | Adam | 2025-02-18 |
-| Total | 4:11 | Adam | 2025-02-18 |
+| Total |3:30 | B2 | 2025-02-23 |
 
 ## Special
 
