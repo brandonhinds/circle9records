@@ -33,7 +33,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 2:27 | B1 | 2025-02-14 |
+| Standard | 1:45 | B1 | 2025-02-24 |
 | Advanced | 4:41 | B1 | 2025-02-22 |
 | Expert | 7:12 | B1 | 2025-02-06 |
 | Total | 17:25 | B1 | 2025-02-06 |
