@@ -84,8 +84,8 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:43 | B2 | 2025-02-10 |
-| Advanced | 0:58 | B1 | 2025-02-11 |
-| Total | 1:48 | B1 | 2025-02-11 |
+| Advanced | 0:56 | B2 | 2025-02-24 |
+| Total | 1:47 | B2 | 2025-02-24 |
 
 ## Letter Link
 
