@@ -6,10 +6,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:21 | B2 | 2025-02-21 |
+| Standard | 0:19 | B1 | 2025-02-28 |
 | Advanced | 0:32 | B1 | 2025-02-14 |
 | Expert | 1:06 | B1 | 2025-02-27 |
-| Total | 3:13 | B1 | 2025-02-16 |
+| Total | 2:55 | B1 | 2025-02-28 |
 
 ## Jigsaw Circle 9
 
