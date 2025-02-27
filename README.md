@@ -8,7 +8,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:21 | B2 | 2025-02-21 |
 | Advanced | 0:32 | B1 | 2025-02-14 |
-| Expert | 1:23 | B1 | 2025-02-16 |
+| Expert | 1:14 | Adam | 2025-02-27 |
 | Total | 3:13 | B1 | 2025-02-16 |
 
 ## Jigsaw Circle 9
