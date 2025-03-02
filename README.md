@@ -100,7 +100,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:44 |B2 | 2025-02-23 |
-| Advanced | 0:58 (0:48) | B2 (B1, Lil, Jess) | 2025-02-05 (2025-03-02) |
+| Advanced | 0:58 | B2 | 2025-02-05 |
 | Expert | 1:19 | B2 | 2025-02-27 |
 | Total |3:30 | B2 | 2025-02-23 |
 
@@ -110,3 +110,11 @@ Play the games for free at https://circle9puzzle.com/
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
 | Everything Total | 1:29:56 | B2 | 2025-02-09 |
+
+## Group Records Faster Than Individuals
+
+*This category exists because some games (e.g. Stitchwords) are easier the more people you have looking. If the individual record for any rounds in this table gets beaten then the line should be removed.*
+
+| Game | Round | Time | Holders | Date |
+| ---- | ----- | ---- | ------- | ---- |
+| Stitchwords | Advanced | 0:48 | B1, Lil, Jess | 2025-03-02 |
