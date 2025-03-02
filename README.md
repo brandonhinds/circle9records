@@ -8,7 +8,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:19 | B1 | 2025-02-28 |
 | Advanced | 0:32 | B1 | 2025-02-14 |
-| Expert | 1:06 | B1 | 2025-02-27 |
+| Expert | 0:55 | B1 | 2025-03-02 |
 | Total | 2:55 | B1 | 2025-02-28 |
 
 ## Jigsaw Circle 9
@@ -100,7 +100,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:44 |B2 | 2025-02-23 |
-| Advanced | 0:58 | B2 | 2025-02-05 |
+| Advanced | 0:58 (0:48) | B2 (B1, Lil, Jess) | 2025-02-05 (2025-03-02) |
 | Expert | 1:19 | B2 | 2025-02-27 |
 | Total |3:30 | B2 | 2025-02-23 |
 
