@@ -93,7 +93,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | 16 | 0:50 | B1 | 2025-02-28 |
 | 36 | 2:40 | B2 | 2025-03-08 |
-| Total | 4:20 | B2 | 2025-03-08 |
+| Total | 4:16 | B1 | 2025-03-10 |
 
 ## Stitchwords
 
