@@ -60,7 +60,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:23 | B2 | 2025-02-21 |
 | Advanced | 0:38 | B1 | 2025-03-01 |
-| Total | 1:25 | B2 | 2025-02-10 |
+| Total | 1:23| B1 | 2025-03-10 |
 
 ## Matchbox
 
