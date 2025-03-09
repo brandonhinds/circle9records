@@ -35,8 +35,8 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 1:45 | B1 | 2025-02-24 |
 | Advanced | 2:39 | B1 | 2025-03-07 |
-| Expert | 7:12 | B1 | 2025-02-06 |
-| Total | 15:36 | B1 | 2025-03-01 |
+| Expert | 6:21 | B1 | 2025-03-09 |
+| Total | 13:56 | B1 | 2025-03-09 |
 
 ## Windowpane
 
