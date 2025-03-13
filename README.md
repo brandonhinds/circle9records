@@ -83,7 +83,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:43 | B2 | 2025-02-10 |
+| Standard | 0:37 | B2 | 2025-02-13 |
 | Advanced | 0:51 | B2 | 2025-03-06 |
 | Total | 1:36 | B2 | 2025-03-06 |
 
@@ -92,17 +92,17 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | 16 | 0:50 | B1 | 2025-02-28 |
-| 36 | 2:27 | B2 | 2025-03-11 |
-| Total | 3:25 | B2 | 2025-03-11 |
+| 36 | 1:33 | B2 | 2025-03-13 |
+| Total | 2:33 | B2 | 2025-03-13 |
 
 ## Stitchwords
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:42 |B2 | 2025-03-08 |
-| Advanced | 0:51 | B2 | 2025-03-08 |
+| Standard | 0:31 |B2 | 2025-03-13 |
+| Advanced | 0:44 | B2 | 2025-03-13 |
 | Expert | 0:53 | B2 | 2025-03-10 |
-| Total | 2:52 | B2 | 2025-03-08 |
+| Total | 2:35 | B2 | 2025-03-13 |
 
 ## Special
 
