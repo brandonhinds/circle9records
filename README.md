@@ -42,7 +42,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:23 | B2 | 2025-02-09 |
+| Standard | 1:15 | B1 | 2025-03-15 |
 
 ## Twinominoes
 
