@@ -101,8 +101,8 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:31 |B2 | 2025-03-13 |
 | Advanced | 0:44 | B2 | 2025-03-13 |
-| Expert | 0:53 | B2 | 2025-03-10 |
-| Total | 2:35 | B2 | 2025-03-13 |
+| Expert | 0:39 | B2 | 2025-03-21 |
+| Total | 2:05 | B2 | 2025-03-21 |
 
 ## Special
 
