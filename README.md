@@ -117,4 +117,3 @@ Play the games for free at https://circle9puzzle.com/
 
 | Game | Round | Time | Holders | Date |
 | ---- | ----- | ---- | ------- | ---- |
-| Stitchwords | Advanced | 0:48 | B1, Lil, Jess | 2025-03-02 |
