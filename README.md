@@ -52,7 +52,7 @@ Play the games for free at https://circle9puzzle.com/
 | 4 | 0:04 | B1 | 2025-02-08 |
 | 5 | 0:10 | B1 | 2025-02-22 |
 | 6 | 0:07 | B2 | 2025-02-22 |
-| Total | 0:58 | B2 | 2024-12-28 |
+| Total | 0:41 | B2 | 2025-04-01 |
 
 ## Pentominoes
 
