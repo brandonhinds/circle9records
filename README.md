@@ -77,7 +77,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:55 | B1 | 2025-04-04 |
+| Standard | 1:37 | B2 | 2025-04-04 |
 
 ## Ball Sort
 
