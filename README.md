@@ -38,6 +38,12 @@ Play the games for free at https://circle9puzzle.com/
 | Expert | 3:46 | B1 | 2025-03-31 |
 | Total | 8:39 | B1 | 2025-03-31 |
 
+## Cherry
+
+| Round | Time | Holder | Date |
+| ----- | ---- | ------ | ---- |
+| Advanced | 4:28 | B2 | 2025-06-18
+
 ## Windowpane
 
 | Round | Time | Holder | Date |
