@@ -113,7 +113,16 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:31 |B2 | 2025-03-13 |
+| Standard | 2:42 | B1 | 2025-06-27 |
+| Advanced | 3:48 | B1 | 2025-06-27 |
+| Expert | 4:42 | B1 | 2025-06-27 |
+| Total | 11:14 | B1 | 2025-06-27 |
+
+## Stitchwords *(Legacy)*
+
+| Round | Time | Holder | Date |
+| ----- | ---- | ------ | ---- |
+| Standard | 0:31 | B2 | 2025-03-13 |
 | Advanced | 0:44 | B2 | 2025-03-13 |
 | Expert | 0:39 | B2 | 2025-03-21 |
 | Total | 2:05 | B2 | 2025-03-21 |
