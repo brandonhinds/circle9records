@@ -89,9 +89,9 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 6:07 | B1 | 2025-06-26 |
-| Advanced | 12:23 | B1 | 2025-06-26 |
-| Total | 18:30 | B1 | 2025-06-26 |
+| Standard | 3:47 | B1 | 2025-06-27 |
+| Advanced | 10:35 | B1 | 2025-06-27 |
+| Total | 14:22 | B1 | 2025-06-27 |
 
 ## Ball Sort
 
