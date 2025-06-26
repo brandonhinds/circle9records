@@ -79,11 +79,19 @@ Play the games for free at https://circle9puzzle.com/
 | 49 | 0:22 | B1 | 2025-04-07 |
 | Total | 1:53 | B1 | 2025-04-08 |
 
-## Number Cross
+## Circle Sum (formerly Number Cross)
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 1:37 | B2 | 2025-04-04 |
+
+## Cross Factor
+
+| Round | Time | Holder | Date |
+| ----- | ---- | ------ | ---- |
+| Standard | 6:07 | B1 | 2025-06-26 |
+| Advanced | 12:23 | B1 | 2025-06-26 |
+| Total | 18:30 | B1 | 2025-06-26 |
 
 ## Ball Sort
 
