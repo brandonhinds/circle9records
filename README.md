@@ -123,7 +123,7 @@ Play the games for free at https://circle9puzzle.com/
 | Category | Time | Holder | Date |
 | -------- | ---- | ------ | ---- |
 | Twins + Pents Total | 3:10 | B2 | 2024-12-28 |
-| Everything Total | 1:29:56 | B2 | 2025-02-09 |
+| Everything Total *(before Cherry amd Cross Factor)* | 1:29:56 | B2 | 2025-02-09 |
 
 ## Group Records Faster Than Individuals
 
