@@ -8,7 +8,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:19 | B1 | 2025-02-28 |
 | Advanced | 0:32 | B1 | 2025-02-14 |
-| Expert | 0:29 | B1 | 2025-03-12 |
+| Expert | 0:25 | Adam | 2025-05-28 |
 | Total | 1:59 | Adam | 2025-04-17 |
 
 ## Jigsaw Circle 9
@@ -17,7 +17,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 0:31 | B1 | 2025-02-14 |
 | Advanced | 0:51 | B1 | 2025-02-22 |
-| Expert | 1:11 | B1 | 2025-02-21 |
+| Expert | 1:10 | Adam | 2025-06-27 |
 | Total | 3:07 | B1 | 2025-02-21 |
 
 ## Blueberry
@@ -25,16 +25,16 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 1:00 | Adam | 2025-04-01 |
-| Advanced | 1:19 | B2 | 2025-03-10 |
+| Advanced | 1:12 | Adam | 2025-06-19 |
 | Expert | 1:08 | B2 | 2025-03-11 |
-| Total | 5:00 | B2 | 2025-03-11 |
+| Total | 4:25 | Adam | 2025-05-09 |
 
 ## Blueberry Trio
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 1:18 | B1 | 2025-03-11 |
-| Advanced | 2:39 | B1 | 2025-03-07 |
+| Advanced | 2:37 | Adam | 2025-06-18 |
 | Expert | 3:46 | B1 | 2025-03-31 |
 | Total | 8:39 | B1 | 2025-03-31 |
 
@@ -42,13 +42,13 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Advanced | 3:36 | B1 | 2025-06-26 |
+| Advanced | 1:30 | Adam | 2025-06-30 |
 
 ## Windowpane
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:12 | Adam | 2025-04-01 |
+| Standard | 0:47 | Adam | 2025-04-24 |
 
 ## Twinominoes
 
@@ -83,13 +83,13 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:37 | B2 | 2025-04-04 |
+| Standard | 1:32 | Adam | 2025-06-06 |
 
 ## Cross Factor
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 3:47 | B1 | 2025-06-27 |
+| Standard | 1:35 | Adam | 2025-06-25 |
 | Advanced | 10:35 | B1 | 2025-06-27 |
 | Total | 14:22 | B1 | 2025-06-27 |
 
@@ -113,10 +113,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 2:42 | B1 | 2025-06-27 |
-| Advanced | 3:48 | B1 | 2025-06-27 |
-| Expert | 4:42 | B1 | 2025-06-27 |
-| Total | 11:14 | B1 | 2025-06-27 |
+| Standard | 1:14 | Adam | 2025-06-30 |
+| Advanced | 1:26 | Adam | 2025-06-30 |
+| Expert | 2:58 | Adam | 2025-06-30 |
+| Total | 5:40 | B1 | 2025-06-30 |
 
 ## Stitchwords *(Legacy)*
 
