@@ -91,7 +91,7 @@ Play the games for free at https://circle9puzzle.com/
 | ----- | ---- | ------ | ---- |
 | Standard | 1:00 | Adam | 2025-07-07 |
 | Advanced | 10:35 | B1 | 2025-06-27 |
-| Total | 14:22 | B1 | 2025-06-27 |
+| Total | 12:31 | Adam | 2025-07-07 |
 
 ## Ball Sort
 
