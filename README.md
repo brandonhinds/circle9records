@@ -33,10 +33,10 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:18 | B1 | 2025-03-11 |
+| Standard | 1:08 | Adam | 2025-07-11 |
 | Advanced | 2:37 | Adam | 2025-06-18 |
-| Expert | 3:46 | B1 | 2025-03-31 |
-| Total | 8:39 | B1 | 2025-03-31 |
+| Expert | 3:41 | Adam | 2025-07-11 |
+| Total | 8:10 | Adam | 2025-07-11 |
 
 ## Cherry
 
