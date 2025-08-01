@@ -42,7 +42,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Advanced | 1:30 | Adam | 2025-06-30 |
+| Advanced | 0:52 | Adam | 2025-08-01 |
 
 ## Windowpane
 
@@ -90,8 +90,8 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 1:00 | Adam | 2025-07-07 |
-| Advanced | 3:24 | Adam | 2025-07-30 |
-| Total | 6:15 | Adam | 2025-07-30 |
+| Advanced | 2:57 | Adam | 2025-08-01 |
+| Total | 4:03 | Adam | 2025-08-01 |
 
 ## Ball Sort
 
