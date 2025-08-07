@@ -89,7 +89,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:00 | Adam | 2025-07-07 |
+| Standard | 0:56 | Adam | 2025-08-07 |
 | Advanced | 2:57 | Adam | 2025-08-01 |
 | Total | 4:03 | Adam | 2025-08-01 |
 
