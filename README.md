@@ -83,7 +83,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 1:32 | Adam | 2025-06-06 |
+| Standard | 0:54 | Adam | 2025-08-22 |
 
 ## Cross Factor
 
