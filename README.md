@@ -27,7 +27,7 @@ Play the games for free at https://circle9puzzle.com/
 | Standard | 0:57 | Adam | 2025-08-22 |
 | Advanced | 1:05 | Adam | 2025-08-19 |
 | Expert | 1:08 | B2 | 2025-03-11 |
-| Total | 4:25 | Adam | 2025-05-09 |
+| Total | 4:00 | Adam | 2025-09-01 |
 
 ## Blueberry Trio
 
@@ -114,7 +114,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:57 | Adam | 2025-07-16 |
-| Advanced | 1:06 | Adam | 2025-07-07 |
+| Advanced | 1:03 | Adam | 2025-09-01 |
 | Expert | 0:55 | Adam | 2025-07-23 |
 | Total | 3:41 | Adam | 2025-07-16 |
 
