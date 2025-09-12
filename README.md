@@ -114,9 +114,9 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:57 | Adam | 2025-07-16 |
-| Advanced | 1:03 | Adam | 2025-09-01 |
+| Advanced | 0:56 | Adam | 2025-09-11 |
 | Expert | 0:55 | Adam | 2025-07-23 |
-| Total | 3:41 | Adam | 2025-07-16 |
+| Total | 3:21 | Adam | 2025-07-16 |
 
 ## Stitchwords *(Legacy)*
 
