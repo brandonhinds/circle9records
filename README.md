@@ -90,8 +90,8 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:56 | Adam | 2025-08-07 |
-| Advanced | 2:25 | Adam | 2025-08-22 |
-| Total | 4:03 | Adam | 2025-08-01 |
+| Advanced | 2:05 | Adam | 2025-09-15 |
+| Total | 3:54 | Adam | 2025-09-15 |
 
 ## Ball Sort
 
