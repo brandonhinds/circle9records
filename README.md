@@ -42,7 +42,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Advanced | 0:52 | Adam | 2025-08-01 |
+| Advanced | 0:38 | Adam | 2025-10-24 |
 
 ## Windowpane
 
