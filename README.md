@@ -48,7 +48,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:44 | Adam | 2025-08-21 |
+| Standard | 0:42 | Adam | 2026-01-20 |
 
 ## Twinominoes
 
