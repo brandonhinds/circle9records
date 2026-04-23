@@ -34,7 +34,7 @@ Play the games for free at https://circle9puzzle.com/
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
 | Standard | 0:44 | Adam | 2026-02-03 |
-| Advanced | 1:45 | Adam | 2025-11-25 |
+| Advanced | 1:31 | Adam | 2026-04-23 |
 | Expert | 3:41 | Adam | 2025-07-11 |
 | Total | 8:10 | Adam | 2025-07-11 |
 
@@ -113,7 +113,7 @@ Play the games for free at https://circle9puzzle.com/
 
 | Round | Time | Holder | Date |
 | ----- | ---- | ------ | ---- |
-| Standard | 0:57 | Adam | 2025-07-16 |
+| Standard | 0:46 | Adam | 2026-04-23 |
 | Advanced | 0:56 | Adam | 2025-09-11 |
 | Expert | 0:55 | Adam | 2025-07-23 |
 | Total | 3:21 | Adam | 2025-07-16 |
